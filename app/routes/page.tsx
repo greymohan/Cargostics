@@ -10,16 +10,16 @@ import { cn } from '@/lib/utils';
 const routeStats = [
   { label: 'Active Routes', value: '24', icon: Navigation, change: '+3 today', color: 'text-blue-400' },
   { label: 'Avg Transit Time', value: '18.5h', icon: Clock, change: '-1.2h vs last week', color: 'text-emerald-400' },
-  { label: 'Fuel Efficiency', value: '6.8 MPG', icon: Fuel, change: '+0.3 MPG', color: 'text-amber-400' },
+  { label: 'Fuel Efficiency', value: '34.5 L/100km', icon: Fuel, change: '-0.3 L/100km', color: 'text-amber-400' },
   { label: 'On-Time Rate', value: '94.2%', icon: TrendingUp, change: '-1.2% this week', color: 'text-primary' },
 ];
 
 const routePoints = [
-  { id: 'R1', load: 'LD-2024-001845', from: 'Dallas, TX', to: 'Memphis, TN', status: 'on-time', progress: 65, driver: 'Mike Rodriguez', eta: '14:30 EST' },
-  { id: 'R2', load: 'LD-2024-001848', from: 'Houston, TX', to: 'Phoenix, AZ', status: 'on-time', progress: 42, driver: 'Anna Bell', eta: '08:00 MST' },
-  { id: 'R3', load: 'LD-2024-001849', from: 'Los Angeles, CA', to: 'Denver, CO', status: 'delayed', progress: 78, driver: 'Tom Hardy', eta: '22:00 MST' },
-  { id: 'R4', load: 'LD-2024-001851', from: 'Seattle, WA', to: 'Portland, OR', status: 'on-time', progress: 85, driver: 'David Lee', eta: '11:00 PST' },
-  { id: 'R5', load: 'LD-2024-001853', from: 'Kansas City, MO', to: 'St. Louis, MO', status: 'on-time', progress: 55, driver: 'Pedro Garcia', eta: '15:45 CST' },
+  { id: 'R1', load: 'LD-2024-001845', from: 'Sydney, NSW', to: 'Brisbane, QLD', status: 'on-time', progress: 65, driver: 'Mike Rodriguez', eta: '14:30 AEST' },
+  { id: 'R2', load: 'LD-2024-001848', from: 'Darwin, NT', to: 'Perth, WA', status: 'on-time', progress: 42, driver: 'Anna Bell', eta: '08:00 AWST' },
+  { id: 'R3', load: 'LD-2024-001849', from: 'Melbourne, VIC', to: 'Adelaide, SA', status: 'delayed', progress: 78, driver: 'Tom Hardy', eta: '22:00 ACST' },
+  { id: 'R4', load: 'LD-2024-001851', from: 'Hobart, TAS', to: 'Launceston, TAS', status: 'on-time', progress: 85, driver: 'David Lee', eta: '11:00 AEST' },
+  { id: 'R5', load: 'LD-2024-001853', from: 'Newcastle, NSW', to: 'Sydney, NSW', status: 'on-time', progress: 55, driver: 'Pedro Garcia', eta: '15:45 AEST' },
 ];
 
 export default function RoutesPage() {
