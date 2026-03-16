@@ -12,7 +12,7 @@ Cargostics is a modern, AI-powered logistics dashboard designed for the Australi
 
 ## Tech Stack
 
-- **Framework**: Next.js 14
+- **Framework**: Next.js 16.1.6 (Stable Turbopack & React 19.2)
 - **Styling**: Tailwind CSS
 - **Components**: Radix UI / Shadcn UI
 - **Icons**: Lucide React
