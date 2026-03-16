@@ -16,11 +16,11 @@
     { "status": "Cancelled", "count": 7 }
   ],
   "topCustomers": [
-    { "customer": "Walmart Distribution", "loads": 342, "revenue": 892000 },
-    { "customer": "Amazon Logistics", "loads": 289, "revenue": 756000 },
-    { "customer": "Home Depot", "loads": 198, "revenue": 534000 },
-    { "customer": "Target Corp", "loads": 167, "revenue": 412000 },
-    { "customer": "Costco Wholesale", "loads": 145, "revenue": 389000 }
+    { "customer": "Woolworths Logistics", "loads": 342, "revenue": 892000 },
+    { "customer": "Coles Supply Chain", "loads": 289, "revenue": 756000 },
+    { "customer": "Bunnings Group", "loads": 198, "revenue": 534000 },
+    { "customer": "Kmart Australia", "loads": 167, "revenue": 412000 },
+    { "customer": "Myer Logistics", "loads": 145, "revenue": 389000 }
   ],
   "onTimeRate": [
     { "week": "W1", "rate": 96.1 },
@@ -42,11 +42,11 @@
     { "day": "Sun", "active": 72, "idle": 58, "maintenance": 26 }
   ],
   "revenueByLane": [
-    { "lane": "TX → TN", "revenue": 245000, "loads": 82 },
-    { "lane": "IL → IN", "revenue": 198000, "loads": 110 },
-    { "lane": "CA → CO", "revenue": 312000, "loads": 65 },
-    { "lane": "FL → NC", "revenue": 178000, "loads": 72 },
-    { "lane": "WA → OR", "revenue": 95000, "loads": 98 },
-    { "lane": "OH → PA", "revenue": 134000, "loads": 88 }
+    { "lane": "NSW → QLD", "revenue": 245000, "loads": 82 },
+    { "lane": "VIC → NSW", "revenue": 198000, "loads": 110 },
+    { "lane": "WA → SA", "revenue": 312000, "loads": 65 },
+    { "lane": "QLD → ACT", "revenue": 178000, "loads": 72 },
+    { "lane": "TAS → VIC", "revenue": 95000, "loads": 98 },
+    { "lane": "SA → NSW", "revenue": 134000, "loads": 88 }
   ]
 }

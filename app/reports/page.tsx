@@ -21,7 +21,7 @@ const forecastInsights = [
 
 const aiRecommendations = [
   { title: 'Add 3 vehicles before July', desc: 'Demand forecast shows 15% capacity gap in July-Aug period. Adding vehicles now ensures readiness.', impact: 'High', savings: '$45K' },
-  { title: 'Pre-negotiate carrier rates for Q3', desc: 'Spot rates expected to rise 12% in summer. Locking rates now saves on peak season freight.', impact: 'Medium', savings: '$28K' },
+  { title: 'Pre-negotiate carrier rates for Q3', desc: 'Spot rates expected to rise 12% during peak periods. Locking rates now saves on high-demand freight.', impact: 'Medium', savings: '$28K' },
   { title: 'Hire 2 additional drivers by May', desc: 'Growing load volume requires expanded driver pool to maintain service levels.', impact: 'High', savings: '$32K' },
 ];
 

@@ -37,13 +37,13 @@ const aiRecommendations = [
   { id: 1, title: 'Switch to Predictive Maintenance', impact: 'Save $4,300/month', effort: 'Low', category: 'Maintenance',
     description: 'AI analysis shows 23% of maintenance costs are reactive. Switching to predictive scheduling based on telemetry data can reduce breakdowns by 67%.', confidence: 94 },
   { id: 2, title: 'Optimize Fuel Purchase Timing', impact: 'Save $2,100/month', effort: 'Low', category: 'Fuel',
-    description: 'Fuel price analysis reveals optimal purchasing windows. Fueling at partner stations during off-peak hours (2AM-6AM) saves an average of $0.18/gallon.', confidence: 89 },
+    description: 'Fuel price analysis reveals optimal purchasing windows. Fueling at partner stations during off-peak hours (2AM-6AM) saves an average of $0.05/litre.', confidence: 89 },
   { id: 3, title: 'Reduce Driver Idle Time', impact: 'Save $6,600/month', effort: 'Medium', category: 'Operations',
     description: 'GPS data shows an average of 47 minutes idle time per route. Better dock scheduling and driver communication can reduce this by 53%.', confidence: 92 },
   { id: 4, title: 'Consolidate LTL Shipments', impact: 'Save $3,800/month', effort: 'Medium', category: 'Operations',
     description: 'Analysis of load patterns shows 18% of trucks run below 70% capacity. AI-powered consolidation can combine compatible loads on similar lanes.', confidence: 87 },
   { id: 5, title: 'Renegotiate Insurance Based on Safety Data', impact: 'Save $1,900/month', effort: 'High', category: 'Insurance',
-    description: 'Your fleet safety score of 91.2 puts you in the top 15% nationally. This data can leverage better insurance rates with premium carriers.', confidence: 85 },
+    description: 'Your fleet safety score of 91.2 puts you in the top 15% in Australia. This data can leverage better insurance rates with premium carriers.', confidence: 85 },
 ];
 
 export default function CostAnalyzerPage() {
