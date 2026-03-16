@@ -1,0 +1,7 @@
+[
+  { "id": "POD-001", "loadId": "LD-2024-001850", "deliveryDate": "2026-03-11", "recipient": "Charlotte Distribution Center", "status": "Approved", "signedBy": "John Mitchell", "notes": "All items received in good condition" },
+  { "id": "POD-002", "loadId": "LD-2024-001843", "deliveryDate": "2026-03-10", "recipient": "Denver Warehouse", "status": "Approved", "signedBy": "Maria Santos", "notes": "" },
+  { "id": "POD-003", "loadId": "LD-2024-001841", "deliveryDate": "2026-03-09", "recipient": "Phoenix Hub", "status": "Pending", "signedBy": "Robert Kim", "notes": "2 pallets with minor damage - photos attached" },
+  { "id": "POD-004", "loadId": "LD-2024-001838", "deliveryDate": "2026-03-08", "recipient": "Nashville Center", "status": "Rejected", "signedBy": "Lisa Turner", "notes": "Missing 3 cartons from shipment" },
+  { "id": "POD-005", "loadId": "LD-2024-001835", "deliveryDate": "2026-03-07", "recipient": "Indianapolis Depot", "status": "Approved", "signedBy": "James Brown", "notes": "Delivered on time" }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "ALT-001", "type": "critical", "title": "Late Pickup Alert", "message": "Load LD-2024-001845 is 2 hours behind schedule at Sydney pickup point", "time": "12 min ago", "loadId": "LD-2024-001845", "actionable": true },
+  { "id": "ALT-002", "type": "warning", "title": "HOS Risk Warning", "message": "Driver Mike Rodriguez approaching driving limit. Consider rest stop near Goulburn, NSW", "time": "25 min ago", "loadId": "LD-2024-001845", "actionable": true },
+  { "id": "ALT-003", "type": "critical", "title": "Temperature Alert", "message": "Reefer unit TRK-1007 temperature at 4°C — threshold is 1°C. Frozen goods at risk.", "time": "1 hour ago", "loadId": "LD-2024-001849", "actionable": true },
+  { "id": "ALT-004", "type": "warning", "title": "Unpaid Invoice", "message": "INV-24-1830 from Bunnings Warehouse overdue by 15 days. Amount: $4,100", "time": "2 hours ago", "actionable": true },
+  { "id": "ALT-005", "type": "info", "title": "AI Route Optimization", "message": "Suggested reroute for LD-2024-001849 via Hume Highway saves 45 min and $32 in fuel", "time": "3 hours ago", "loadId": "LD-2024-001849", "actionable": true },
+  { "id": "ALT-006", "type": "info", "title": "Maintenance Due", "message": "TRK-1033 scheduled for brake inspection in 5 days (Mar 20)", "time": "4 hours ago", "actionable": false }
+]

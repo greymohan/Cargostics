@@ -1,0 +1,7 @@
+[
+  { "id": "WH-001", "name": "Sydney Hub Central", "location": "Sydney, NSW", "address": "123 Logistics Way, Eastern Creek, NSW 2766", "capacity": 50000, "utilization": 78, "docks": 24, "docksAvailable": 8, "manager": "Sarah Johnson", "type": "Distribution", "status": "Active" },
+  { "id": "WH-002", "name": "Melbourne Cross-Dock", "location": "Melbourne, VIC", "address": "45 Industrial Dr, Truganina, VIC 3029", "capacity": 35000, "utilization": 92, "docks": 18, "docksAvailable": 2, "manager": "Mike Rodriguez", "type": "Cross-Dock", "status": "Active" },
+  { "id": "WH-003", "name": "Brisbane Port Cold Storage", "location": "Brisbane, QLD", "address": "78 Port Rd, Lytton, QLD 4178", "capacity": 20000, "utilization": 65, "docks": 12, "docksAvailable": 5, "manager": "Emily Chen", "type": "Cold Storage", "status": "Active" },
+  { "id": "WH-004", "name": "Perth Fulfillment Center", "location": "Perth, WA", "address": "220 Kewdale Rd, Kewdale, WA 6105", "capacity": 60000, "utilization": 84, "docks": 30, "docksAvailable": 6, "manager": "David Lee", "type": "Fulfillment", "status": "Active" },
+  { "id": "WH-005", "name": "Adelaide Distribution", "location": "Adelaide, SA", "address": "550 Freight St, Regency Park, SA 5010", "capacity": 42000, "utilization": 71, "docks": 20, "docksAvailable": 7, "manager": "Amy Watson", "type": "Distribution", "status": "Maintenance" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "USR-001", "name": "Sarah Johnson", "email": "sarah@cargostics.com", "role": "Admin", "status": "active", "lastLogin": "2026-03-13T08:30:00Z" },
+  { "id": "USR-002", "name": "Mike Rodriguez", "email": "mike@cargostics.com", "role": "Dispatcher", "status": "active", "lastLogin": "2026-03-13T07:15:00Z" },
+  { "id": "USR-003", "name": "Emily Chen", "email": "emily@cargostics.com", "role": "Finance", "status": "active", "lastLogin": "2026-03-12T16:45:00Z" },
+  { "id": "USR-004", "name": "James Wilson", "email": "james@cargostics.com", "role": "Driver", "status": "active", "lastLogin": "2026-03-13T06:00:00Z" },
+  { "id": "USR-005", "name": "Lisa Park", "email": "lisa@cargostics.com", "role": "Viewer", "status": "inactive", "lastLogin": "2026-03-10T12:00:00Z" }
+]

@@ -1,0 +1,52 @@
+{
+  "revenueByMonth": [
+    { "month": "Oct", "revenue": 980000, "cost": 720000, "profit": 260000 },
+    { "month": "Nov", "revenue": 1050000, "cost": 780000, "profit": 270000 },
+    { "month": "Dec", "revenue": 1120000, "cost": 810000, "profit": 310000 },
+    { "month": "Jan", "revenue": 890000, "cost": 680000, "profit": 210000 },
+    { "month": "Feb", "revenue": 1040000, "cost": 750000, "profit": 290000 },
+    { "month": "Mar", "revenue": 1200000, "cost": 830000, "profit": 370000 }
+  ],
+  "loadsByStatus": [
+    { "status": "Delivered", "count": 1842 },
+    { "status": "In Transit", "count": 147 },
+    { "status": "Assigned", "count": 58 },
+    { "status": "Loading", "count": 23 },
+    { "status": "Delayed", "count": 12 },
+    { "status": "Cancelled", "count": 7 }
+  ],
+  "topCustomers": [
+    { "customer": "Walmart Distribution", "loads": 342, "revenue": 892000 },
+    { "customer": "Amazon Logistics", "loads": 289, "revenue": 756000 },
+    { "customer": "Home Depot", "loads": 198, "revenue": 534000 },
+    { "customer": "Target Corp", "loads": 167, "revenue": 412000 },
+    { "customer": "Costco Wholesale", "loads": 145, "revenue": 389000 }
+  ],
+  "onTimeRate": [
+    { "week": "W1", "rate": 96.1 },
+    { "week": "W2", "rate": 94.8 },
+    { "week": "W3", "rate": 95.5 },
+    { "week": "W4", "rate": 93.2 },
+    { "week": "W5", "rate": 94.2 },
+    { "week": "W6", "rate": 95.0 },
+    { "week": "W7", "rate": 94.5 },
+    { "week": "W8", "rate": 94.2 }
+  ],
+  "fleetUtilization": [
+    { "day": "Mon", "active": 112, "idle": 28, "maintenance": 16 },
+    { "day": "Tue", "active": 118, "idle": 24, "maintenance": 14 },
+    { "day": "Wed", "active": 125, "idle": 19, "maintenance": 12 },
+    { "day": "Thu", "active": 120, "idle": 22, "maintenance": 14 },
+    { "day": "Fri", "active": 130, "idle": 15, "maintenance": 11 },
+    { "day": "Sat", "active": 95, "idle": 42, "maintenance": 19 },
+    { "day": "Sun", "active": 72, "idle": 58, "maintenance": 26 }
+  ],
+  "revenueByLane": [
+    { "lane": "TX → TN", "revenue": 245000, "loads": 82 },
+    { "lane": "IL → IN", "revenue": 198000, "loads": 110 },
+    { "lane": "CA → CO", "revenue": 312000, "loads": 65 },
+    { "lane": "FL → NC", "revenue": 178000, "loads": 72 },
+    { "lane": "WA → OR", "revenue": 95000, "loads": 98 },
+    { "lane": "OH → PA", "revenue": 134000, "loads": 88 }
+  ]
+}

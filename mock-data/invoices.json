@@ -1,0 +1,10 @@
+[
+  { "id": "INV-24-1840", "loadId": "LD-2024-001845", "customer": "Walmart Distribution", "amount": 3200, "status": "Pending", "issueDate": "2026-03-12", "dueDate": "2026-04-11" },
+  { "id": "INV-24-1841", "loadId": "LD-2024-001846", "customer": "Amazon Logistics", "amount": 1800, "status": "Pending", "issueDate": "2026-03-13", "dueDate": "2026-04-12" },
+  { "id": "INV-24-1835", "loadId": "LD-2024-001839", "customer": "Target Corp", "amount": 2750, "status": "Paid", "issueDate": "2026-02-28", "dueDate": "2026-03-30", "paidDate": "2026-03-08" },
+  { "id": "INV-24-1830", "loadId": "LD-2024-001834", "customer": "Home Depot", "amount": 4100, "status": "Overdue", "issueDate": "2026-02-15", "dueDate": "2026-03-17" },
+  { "id": "INV-24-1845", "loadId": "LD-2024-001849", "customer": "Costco Wholesale", "amount": 5200, "status": "Disputed", "issueDate": "2026-03-10", "dueDate": "2026-04-09" },
+  { "id": "INV-24-1838", "loadId": "LD-2024-001842", "customer": "FedEx Freight", "amount": 2800, "status": "Paid", "issueDate": "2026-03-01", "dueDate": "2026-03-31", "paidDate": "2026-03-10" },
+  { "id": "INV-24-1842", "loadId": "LD-2024-001850", "customer": "UPS Supply Chain", "amount": 950, "status": "Pending", "issueDate": "2026-03-13", "dueDate": "2026-04-12" },
+  { "id": "INV-24-1825", "loadId": "LD-2024-001829", "customer": "Kroger Co", "amount": 1650, "status": "Paid", "issueDate": "2026-02-10", "dueDate": "2026-03-12", "paidDate": "2026-03-01" }
+]
